@@ -1,0 +1,20 @@
+body{
+	background-color: rgb(98, 162, 162);
+}
+input
+{
+	width : 50px;
+	height : 50px;
+}
+
+input[type = 'button']
+{
+	border-radius: 9px;
+	background-color: aliceblue;
+}
+.Centrage
+{
+	position: relative;
+	transform: translate(50%,50%);
+	right: 6pc;
+}
