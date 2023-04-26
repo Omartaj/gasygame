@@ -202,7 +202,7 @@ function testCaseFeno(){
 	}
 	if(test == 0)
 	{
-		alert("Match nul");
+		alert("Sahala ny lalao");
 		resetloko();
 		InitializeMatrice();
 		for (i = 0 ; i < 3; i ++){
